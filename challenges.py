@@ -1,11 +1,9 @@
-esc = [1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5,1,2,3,4,5]
-
 def creaEsc(tam,esc):
 	for x in esc:
 		if x%tam==0:
-			print x
+			print (x)
 		else:
-			print x," ",
+			print (x," ",)
 def arreEsc(tam):
 	arre=[]
 	for y in xrange(1,tam+1):
@@ -15,5 +13,5 @@ def arreEsc(tam):
 def juego(var):
 	creaEsc(var,arreEsc(var))
 
-juego(5)
+juego(20)
 #arreEsc(5)
