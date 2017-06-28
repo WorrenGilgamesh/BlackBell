@@ -23,7 +23,6 @@ def creaEsc(tam,esc,jugadorPos):
 				print('{:>4}'.format(x), end=' ')
 def arreEsc(tam):
 	arre=[]
-	#for y in range(1,tam+1):
 	for x in range(1,tam+1):
 		arre.append(x)
 	return(arre)
@@ -43,6 +42,11 @@ def start():
 		res=pista(tam,1)
 	while (res ==True):
 		print('Elige una pos')
-		pista(tam,int(input()))
+		pos=int(input())
+		if pos<tam*tam:
+			pista(tam,pos)
+		else:
+			print('no te pases')
+		
 
 start()
