@@ -1,19 +1,29 @@
 from prints import *
 import math
-def digitos(tam,esc):
-	len(str(123))
-	t=()
-	for x in esc:
-		t=t+(x,)
-	return t
-
+conta=1
 def jugador(posicion,tam):
     return {
-    	'arriba':1 ,
-    	'abajo': 2,
+    	'der':der(tam),
+    	'aba':aba(tam),
+    	'izq':2,
+    	'arr': 3,
     }.get(posicion, 0)
 
+def der(tam):
+	res=int(conta+1)
+	return res
+def aba(tam):
+	res=int(tam+conta)
+	return res
+def izq(tam):
+	res=int(conta+1)
+	return res
+def arr(tam):
+	res=int(tam+conta)
+	return res
+
 def creaEsc(tam,esc,jugadorPos):
+	global conta
 	for x in esc:
 		if x%tam==0:
 			if jugador(jugadorPos,tam)==x:
@@ -26,6 +36,8 @@ def creaEsc(tam,esc,jugadorPos):
 				print('{:>4}'.format('a'), end=' ')
 			else:
 				print('{:>4}'.format(x), end=' ')
+	conta=jugador(jugadorPos,tam)
+	print(conta)
 
 def arreEsc(tam):
 	arre=[]
@@ -33,6 +45,8 @@ def arreEsc(tam):
 		arre.append(x)
 	return(arre)
 
+#En primer instancia le pasa al jugado en pos 1
+#var es el tamaño de las pista
 def pista(var,jugadorPos):
 	if var<=16:
 		var=var*var
