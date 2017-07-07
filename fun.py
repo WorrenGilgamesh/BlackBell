@@ -5,8 +5,8 @@ def jugador(posicion,tam):
     return {
     	'der':der(tam),
     	'aba':aba(tam),
-    	'izq':2,
-    	'arr': 3,
+    	'izq':izq(tam),
+    	'arr':arr(tam),
     }.get(posicion, 0)
 
 def der(tam):
@@ -16,10 +16,10 @@ def aba(tam):
 	res=int(tam+conta)
 	return res
 def izq(tam):
-	res=int(conta+1)
+	res=int(conta-1)
 	return res
 def arr(tam):
-	res=int(tam+conta)
+	res=int(conta-tam)
 	return res
 
 def creaEsc(tam,esc,jugadorPos):
