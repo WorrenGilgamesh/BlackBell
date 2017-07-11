@@ -1,0 +1,8 @@
+abscisa   sustantivo femenino Geometría 
+
+Eje horizontal, que sirve, junto con la ordenada, para determinar la posición de un punto en el plano.
+
+Determinamos el valor de x que corresponde al eje de las abscisas.  
+
+abs-ci-sa; abscisas (plural)
+

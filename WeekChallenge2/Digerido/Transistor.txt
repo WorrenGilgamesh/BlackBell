@@ -1,0 +1,8 @@
+transistor   sustantivo masculino 
+
+Dispositivo formado por varias piezas de naturaleza electrónica y de pequeño tamaño, que sirve para rectificar y amplificar los impulsos eléctricos.
+
+El técnico nos informó que uno de los transistores del televisor no funcionaba.  
+
+tran-sis-tor; transistores (plural)
+

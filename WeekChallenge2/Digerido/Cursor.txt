@@ -1,0 +1,8 @@
+cursor   sustantivo masculino 
+
+Señal que aparece en la pantalla de una computadora y que indica el punto donde se va a insertar lo que uno escriba. También otras señales similares que sirven para indicar dónde se comienza un trazo de dibujo o para mover elementos que se ven en la pantalla.
+
+Con el ratón, sitúa el cursor al final del renglón.  
+
+cur-sor; cursores (plural)
+

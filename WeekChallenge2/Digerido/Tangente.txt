@@ -1,0 +1,28 @@
+tangente   adjetivo Geometría 
+
+1
+
+Se dice de la línea o superficie que toca a otra en un punto, sin llegar a cortarla.
+
+Este ángulo agudo está limitado por dos líneas tangentes.  
+
+2
+
+sustantivo femenino Línea recta que toca a una curva o a una superficie, sin cortarla.
+
+Traza una tangente a la circunferencia.  
+
+ //  fraseologismo escaparse, irse o salir alguien por la tangente.
+
+Emplear una vía hábil para evadir un apuro o una responsabilidad.
+
+Cuando le pidieron un aporte en dinero, se fue por la tangente.  
+
+3
+
+Matemáticas Cociente que se obtiene de la división del cateto opuesto de un ángulo entre el cateto contiguo. Su símbolo es tg.
+
+Conociendo el seno y el coseno de un ángulo, se puede calcular la tangente.  
+
+tan-gen-te; tangentes (plural)
+

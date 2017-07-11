@@ -1,0 +1,8 @@
+credencial   sustantivo femenino 
+
+Documento que acredita o demuestra algo, como la inscripción en un evento, la asignación de un cargo, etc.
+
+Para poder participar en el simposio, deben tener la credencial del evento.  
+
+cre-den-cial; credenciales (plural)
+

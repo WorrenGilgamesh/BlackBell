@@ -1,0 +1,8 @@
+interfaz   sustantivo femenino anglicismo Informática 
+
+Ambiente visual que posibilita la interacción de las personas con los sistemas informáticos.
+
+Hay que mejorar la interfaz de este programa para que el usuario se sienta más cómodo.  
+
+in-ter-faz; interfaces (plural)
+

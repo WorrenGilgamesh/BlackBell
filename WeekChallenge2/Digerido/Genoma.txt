@@ -1,0 +1,8 @@
+genoma   sustantivo masculino 
+
+Serie completa de códigos genéticos que caracterizan una especie. En el hombre dichos códigos se encuentran distribuidos entre los 23 pares de cromosomas contenidos en cada célula.
+
+Conocer los detalles del genoma humano ayudará a identificar los genes asociados a muchas enfermedades.  
+
+ge-no-ma; genomas (plural)
+

@@ -1,0 +1,8 @@
+coseno   sustantivo masculino Geometría 
+
+Cociente que se obtiene al dividir la longitud del cateto contiguo a un ángulo entre la longitud de la hipotenusa. Su símbolo es cos.
+
+Calculé el coseno de un triángulo equilátero.  
+
+co-se-no; cosenos (plural)
+

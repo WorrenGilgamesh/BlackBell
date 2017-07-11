@@ -1,0 +1,8 @@
+escaque   sustantivo masculino 
+
+Nombre que se da a cada una de las cuadrículas del tablero de ajedrez o a las del juego de damas.
+
+Los tableros de ajedrez tienen 64 escaques.  
+
+es-ca-que; escaques (plural)
+

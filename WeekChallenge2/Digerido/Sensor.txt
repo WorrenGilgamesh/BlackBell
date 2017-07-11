@@ -1,0 +1,8 @@
+sensor   sustantivo masculino 
+
+Aparato o dispositivo que permite determinar alguna acción externa: temperatura, presión, iluminación, etc., y la transmite adecuadamente.
+
+Las naves cósmicas cuentan con varios sensores de presión.  
+
+sen-sor; sensores (plural)
+

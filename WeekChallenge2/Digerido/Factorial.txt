@@ -1,0 +1,16 @@
+factorial   adjetivo 
+
+1
+
+Que se refiere a los factores.
+
+Este problema requiere un análisis factorial.  
+
+2
+
+sustantivo masculino Matemáticas Producto que resulta de multiplicar un número por todos los que lo anteceden, hasta llegar al uno.
+
+El factorial de 4 es 24 porque 4 por 3 por 2 por 1 da 24.  
+
+fac-to-rial; factoriales (plural)
+

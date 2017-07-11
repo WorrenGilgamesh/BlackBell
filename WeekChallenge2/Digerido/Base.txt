@@ -1,0 +1,58 @@
+base   sustantivo femenino 
+
+1
+
+Soporte en que descansa un objeto o cosa.
+
+La base de mi refrigerador es de madera.  
+
+2
+
+Parte mayoritaria o más importante de algo que lo sostiene o lo condiciona.
+
+La población argentina tiene una fuerte base europea.  
+
+3
+
+Lugar donde se reúne una fuerza militar y donde se concentran los medios necesarios para efectuar una operación por tierra, por mar o por aire.
+
+En la base naval había muchos barcos.  
+
+4
+
+En el juego de pelota, cada una de las cuatro esquinas que indican las almohadillas.
+
+Juan juega la tercera base.  
+
+5
+
+Geometría Plano en el que se sustenta un cuerpo geométrico.
+
+La base de esa pirámide es cuadrada.  
+
+6
+
+Matemáticas Referido a un sistema de numeración, número de unidades necesarias para formar una unidad de orden superior. Por ejemplo: para formar una decena, se necesitan diez unidades; para formar una centena se necesitan diez decenas.
+
+La base de nuestro sistema numérico es diez.  
+
+7
+
+Matemáticas En la potenciación, es el número que se repite como factor.
+
+10² = 100. La base de esta expresión es 10.  
+
+ //  locución nominal Informática  base de datos.
+
+Sistema que permite el almacenamiento de datos de manera estructurada.
+
+Aurora encontró la información que buscaba en la base de datos.  
+
+ //  locución nominal cubanismo  base de taxi, base de ómnibus.
+
+Lugar destinado al parqueo o estacionamiento de determinados vehículos y donde se controla su itinerario.
+
+Miguel chequea las hojas de ruta de su base de taxi.  
+
+ba-se; bases (plural)
+

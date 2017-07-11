@@ -1,0 +1,8 @@
+taxi   sustantivo masculino 
+
+Automóvil de cuatro ruedas, que alquilan las personas para trasladarse.
+
+Carmen fue en taxi al aeropuerto.  
+
+taxis (plural)
+

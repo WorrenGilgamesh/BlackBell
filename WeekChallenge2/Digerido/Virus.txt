@@ -1,0 +1,14 @@
+virus   sustantivo masculino invariable 
+
+Agente infeccioso de estructura simple, que no puede reproducirse por sí mismo, es parásito de las células y posee la capacidad de infectar a todo ser viviente.
+
+La meningitis que padeció Teodoro fue producida por un virus.  
+
+ //  locución nominal virus informático.
+
+Programa de computación que destruye la memoria y la información almacenada en las computadoras. Se adquiere mediante la interacción de la computadora con dispositivos de almacenamiento externo o por medio de la red.
+
+Los virus informáticos son muy dañinos.  
+
+vi-rus
+

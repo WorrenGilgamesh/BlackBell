@@ -1,0 +1,45 @@
+nomenclatura de camello
+	clases y metodos
+nomenclatura de _ 
+	varibles
+else if => elif:
+
+
+if variable is "Hola" => is es como ==
+
+for x in range(4):  =>range es una funcion que te crea una array
+	algo
+while condicion:
+	pass
+
+"%s" % => operador concatenador 
+str(int) => casteo
+
+lista = list() => arreglo vacio o []
+lista = [1,2,3,4,5,6]
+print(lista=[-1]) => imprime 6
+print(lista[1:2]) => inicio y final
+lista.append(7) => agrega al final
+del lista[7] quita elemento de la posision 
+lista[3] = 35 => lo mete a lado del 3
+len(lista) => tamano lista
+
+tupla = (1,2,3,4, "Hola", True)
+
+diccionario => json
+dic()=> or dic{} => 'nombre':"victor",'Edad':24 (para acceder a un arreglo le das ["arreglo"][posicion]
+get('nombre') =>si lo encuentra te lo regresa y si no lo encuentra te regresa none
+fromkeys(dic) => copia las llaves y el contenido None
+dic.items() => lo mete a una lista y luego a una tupla
+
+for key,value in dic.items()
+	print("El valor es %s y el valot es %s" % (str(key), str(value))
+
+square = lambda x: print(x**2) => parametros: funcion (funciones de 3 4 lineas, no valen la pena crearles una funcion)
+square(3)
+list(map(lambda x:x**2, lista)) => pasamos una funcion que aplicara a cada objeto y te entrega un objeto map
+filter(lambda x:x%2 ==0, lista)) => filtra la funcion dependiendo el elemento 
+
+
+
+

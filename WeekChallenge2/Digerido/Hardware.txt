@@ -1,0 +1,8 @@
+hardware [jár-uer]   sustantivo masculino anglicismo Informática 
+
+Conjunto de los componentes materiales de un equipo informático o cada uno en particular (por ejemplo, el teclado o el disco duro de una computadora), en oposición al software, que es la parte inmaterial, es decir, los programas.
+
+Los ingenieros en computación se ocupan de perfeccionar los hardwares.  
+
+hardwares (plural)
+

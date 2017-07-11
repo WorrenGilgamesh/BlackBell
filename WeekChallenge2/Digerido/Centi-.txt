@@ -1,0 +1,20 @@
+centímetro   sustantivo masculino 
+
+Medida de longitud que representa la centésima parte de un metro. Su abreviatura es cm.
+
+Mi mesa mide 150 centímetros de largo.  
+
+ //  locución nominal centímetro cuadrado.
+
+Medida de superficie correspondiente a un cuadrado que tenga un centímetro de lado.
+
+Ese mantel tiene 50 centímetros cuadrados de superficie.  
+
+ //  locución nominal centímetro cúbico.
+
+Medida de volumen correspondiente a un cubo de un centímetro por cada lado.
+
+Esa roca tiene 300 centímetros cúbicos de volumen.  
+
+cen-tí-me-tro; centímetros (plural)
+

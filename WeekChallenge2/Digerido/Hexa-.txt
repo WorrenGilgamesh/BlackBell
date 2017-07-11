@@ -1,0 +1,8 @@
+hexagonal   adjetivo 
+
+Se aplica a lo que presenta seis lados y seis ángulos, es decir, a lo que tiene figura de hexágono.
+
+En aquel ejercicio, había que calcular la amplitud de los ángulos de un polígono hexagonal a partir de los datos ofrecidos.  
+
+hexa-go-nal; hexagonales (plural)
+

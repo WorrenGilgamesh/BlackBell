@@ -1,0 +1,8 @@
+armamento   sustantivo masculino 
+
+Conjunto de armas de un cuerpo militar.
+
+El armamento está listo para combatir.  
+
+ar-ma-men-to; armamentos (plural)
+
